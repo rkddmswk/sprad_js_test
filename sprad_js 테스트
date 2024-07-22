@@ -1,0 +1,10 @@
+* spard js 테스트
+Datasheet > setting >  Format Editor > 각 카테고리 선택 > search
+ex)  Level > Level Transmitter DP Cell > search
+
+해당 카테고리검색 결과 >  Add 버튼 > 99개까지 생성 > save
+ENABLE 컬럼: N -> Y 로 변경 > save
+open Template > DATA > Sheet Binding  > Field List 컬럼들 드래그해서 sheet 에 생성 > save
+
+Level > Level Transmitter DP Cell > open SpecSheet > 해당데이터에 임의 값 입력(ex: 1) > save
+Reload > 데이터 값이 잘 저장되면 완료 
